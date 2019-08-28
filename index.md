@@ -22,9 +22,9 @@
 ---
 ## 开源项目
 <table border="0">
-  <th>
+  <tr>
   <td><h3>项目名称</h3></td><td><h3>中文名称</h3></td><td><h3>项目技术点</h3></td>
-  </th>
+  </tr>
   <tr>
   <td><a href = "https://github.com/wangrenyisme/Shukongdashi">Shukongdashi</a></td><td>数控大师-基于移动端在线设备故障诊断平台</td><td>知识库的构建和维护、数控机床故障诊断的只能问答系统</td>
   </tr>
