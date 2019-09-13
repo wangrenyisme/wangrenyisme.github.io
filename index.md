@@ -131,8 +131,8 @@
 
 3. 智能问答功能
 
-<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot6.png" width="250" alt="截图">
-<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot7.png" width="250" alt="截图">
+<img src="images/Screenshot6.png" width="250" alt="截图">
+<img src="images/Screenshot7.png" width="250" alt="截图">
 
 #### 4. 大数据实战项目
 
@@ -142,8 +142,8 @@
 
 ##### 	B. 跨境电商红酒定价决策
 
-![跨境电商红酒定价决策](images/5-3.png)
+	![跨境电商红酒定价决策](images/5-3.png)
 
-![跨境电商红酒定价决策](images/win_pro_zch.png)
+	![跨境电商红酒定价决策](images/win_pro_zch.png)
 
-![跨境电商红酒定价决策](images/level_zch.png)
+	![跨境电商红酒定价决策](images/level_zch.png)
