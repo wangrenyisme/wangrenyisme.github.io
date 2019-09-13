@@ -15,8 +15,6 @@
   </tr>
 </table>
 
-
-
 ---
 王任义，本科石家庄铁道大学软件工程专业学生，目前就读于石家庄铁道大学，兴趣包括：
   * 信息抽取和知识图谱
@@ -72,6 +70,7 @@
 2.   学生报名参赛，提交比赛作品；
 
 3.   承办方下载比赛作品，对作品打分；
+
 4.   比赛结果汇总统计并导出为Excel； 
 
 #### 3.大学生表白墙网站 /大二
@@ -85,6 +84,7 @@
 2.   如果表白注册过的用户，系统会发送被表白通知给他；
 
 3.   如果表白公众人物，则公众人物参与表白热度排行榜；
+
 4.   用户可以查看表白信息并且评论评论；
 
 #### 4.科技政策影响力分析（毕业设计） /大四
@@ -98,9 +98,9 @@
 2. 科技政策数据关联，通过不同维度的政策分类，实现科技政策与各类科技本体的相互关联。
 3. 科技政策应用服务，根据政策的推出、变更，联合智能分析、分类可视化展现，探究科技政策变化对科技创新发展带来的影响，为政策制订提供决策参考。
 
-##四、项目展示
 
 
+## 四、作品展示
 
 #### 1. 大学生表白墙网站：
 
@@ -110,31 +110,42 @@
 
 ![大学生竞赛管理平台](images/bisai.png)
 
-####3. 数控大师App：
+#### 3. 数控大师App：
 
-故障诊断和解决方法详细信息页面，关系图谱用于展示此结果的推理过程\
-<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot1.png" width="250" alt="截图">
-<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot2.png" width="250" alt="截图">
-<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot3.png" width="250" alt="截图">
+1. 故障诊断和解决方法详细信息页面，关系图谱用于展示此结果的推理过程
 
-在线分析爬取网上的解决方法，查看详细信息，反馈功能\
-<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot4.png" width="250" alt="截图">
-<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot5.png" width="250" alt="截图">
+<img src="images/Screenshot1.png" width="200" alt="截图">
+<img src="images/Screenshot2.png" width="200" alt="截图">
+<img src="images/Screenshot3.png" width="200" alt="截图">
 
-智能问答功能\
-<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot6.png" width="250" alt="截图">
-<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot7.png" width="250" alt="截图">
+
+
+
+
+2. 在线分析爬取网上的解决方法，查看详细信息，反馈功能
+
+<img src="images/Screenshot4.png" width="250" alt="截图">
+<img src="images/Screenshot5.png" width="250" alt="截图">
+
+
+
+
+
+3. 智能问答功能
+
+<img src="images/Screenshot6.png" width="250" alt="截图">
+<img src="images/Screenshot7.png" width="250" alt="截图">
 
 #### 4. 大数据实战项目
 
 ##### 	A. 互联网精准营销
 
-​	![互联网精准营销](images/yingxiaoanli.png)
+    ![互联网精准营销](images/yingxiaoanli.png)
 
 ##### 	B. 跨境电商红酒定价决策
 
-![跨境电商红酒定价决策](images/5-3.png)
+	![跨境电商红酒定价决策](images/5-3.png)
 
-![跨境电商红酒定价决策](images/win_pro_zch.png)
+	![跨境电商红酒定价决策](images/win_pro_zch.png)
 
-![跨境电商红酒定价决策](images/level_zch.png)
+	![跨境电商红酒定价决策](images/level_zch.png)
