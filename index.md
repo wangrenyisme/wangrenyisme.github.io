@@ -8,7 +8,7 @@
       <p><b>地址：河北省石家庄市石家庄铁道大学</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="images/bisaizhao.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -39,35 +39,98 @@
 ---
 ## 三、项目经历
 
-#### 大学生表白墙网站 /大二
-**系统架构：** JSP + Servlet + JavaScript + CSS + HTML <br>
-**系统特点：** 
-		* 对表白对象做了分析； 
-		* 如果是注册过的用户，则发送被表白通知给他； 
-		* 如果是公众人物，则参与表白热度排行榜； 
-		* 可以查看和评论表白信息； 
+#### 1. 数控大师APP-基于移动端的自适应故障诊断平台 /大三
 
-#### 大学生竞赛管理平台 /大二
-**软件架构：** JSP + Servlet + Layui <br>
-**主要功能：** 
-		* 教务处发布上级指示文件，承办方发布校内比赛通知； 
-		* 学生报名参赛，比赛作品提交； 
-		* 比赛作品下载，作品打分排名； 
-		* 比赛结果汇总统计并导出 Excel； 
+**项目简介：**通过学习数控机床历史维修案例，构建知识图谱，实现故障推理诊断。
 
-#### 数控大师-基于移动端的自适应故障诊断平台 /大三 
-**系统架构：** APICloud + Django + Neo4j + MySQL <br>
-**系统特点：** 
-		* 通过 CNN 卷积神经网络训练模型，对切分后的自然语言文本进行分类，结合句法分析，设定推理规则。 
-		* 采用 Neo4j 图形数据库存储复杂的推理规则。 
-		* 在线分析故障，爬取解决方案，通过用户反馈，实现知识库的自学习。 
-		* 推理过程可视化。 
-		* 详细介绍： [Shukongdashi](https://github.com/wangrenyisme/Shukongdashi "数控大师-基于移动端的自适应故障诊断平台")
+**技术方案：**Django + Python + APICloud + Neo4j + MySQL
 
-#### 科技政策影响力分析（毕业设计） /大四
-**系统架构：** Spring Boot + Mybatis-Plus + Shiro + Layui <br>
+**系统特点：**
+
+1.   对自然语言预处理之后，使用CNN卷积神经网络模型进行内容的理解，结合语义模型，最终形成推理规则。
+
+2.   采用Neo4j图形数据库存储复杂的推理规则。
+
+3.   知识库的自学习，系统爬取网上的解决方案，经过分析处理，不断完善知识库。
+
+4.   诊断结果智能化排序，推理过程可视化。
+
+**详细介绍：**[数控大师](https://github.com/wangrenyisme/Shukongdashi"数控大师-基于移动端的自适应故障诊断平台")
+
+#### 2.大学生竞赛智能管理平台 /大二
+
+**技术方案：**Tomcat + JSP + Layui + Servlet + MySQL
+
+**主要功能： **
+
+1.   教务处发布上级指示文件，承办方发布校内比赛通知；
+
+2.   学生报名参赛，提交比赛作品；
+
+3.   承办方下载比赛作品，对作品打分；
+4.   比赛结果汇总统计并导出为Excel； 
+
+#### 3.大学生表白墙网站 /大二
+
+**技术方案：**Tomcat + JSP + Servlet + MySQL
+
+**系统特点：**
+
+1.   对被表白的对象进行智能分析；
+
+2.   如果表白注册过的用户，系统会发送被表白通知给他；
+
+3.   如果表白公众人物，则公众人物参与表白热度排行榜；
+4.   用户可以查看表白信息并且评论评论；
+
+#### 4.科技政策影响力分析（毕业设计） /大四
+
+**技术方案：**Tomcat + Spring Boot + Shiro + Mybatis-Plus + Hadoop
+
 **主要功能：**
-		* 科技政策数据库标准化设计，按照科技大数据仓库统一规范要求，对科技政策数据库结构进行标准设计，建立科技政策元数据与原文数据库。
-		* 科技政策提取入库，从科技政策采集分析系统中分类提取科技政策，按照标准规范，经过清洗后，装载至大数据仓库的标准政策数据库中。
-		* 科技政策数据关联，通过不同维度的政策分类，实现科技政策与各类科技本体的相互关联，提取科技政策中的科技本体信息，建立与科技本体库中项目、人才、机构、产业、平台等的关联关系。
-		* 科技政策应用服务，面向大数据用户提供多角度的查询服务，根据政策的推出、变更，通过对科技大数据仓库创新资源数据综合挖掘、联合智能分析、分类可视化展现，分析科技政策在实施前后对项目、人才、机构、产业、平台等带来的影响，探究科技政策变化对科技创新发展带来的影响，为政策制订提供决策参考。
+
+1.   科技政策提取入库，按照标准规范，经过清洗后，装载至大数据仓库的标准政策数据库中。
+
+2. 科技政策数据关联，通过不同维度的政策分类，实现科技政策与各类科技本体的相互关联。
+3. 科技政策应用服务，根据政策的推出、变更，联合智能分析、分类可视化展现，探究科技政策变化对科技创新发展带来的影响，为政策制订提供决策参考。
+
+##四、项目展示
+
+
+
+#### 1. 大学生表白墙网站：
+
+![大学生表白墙网站](images/biaobaiqiang.jpg)
+
+#### 2. 大学生竞赛管理平台：
+
+![大学生竞赛管理平台](images/bisai.png)
+
+####3. 数控大师App：
+
+故障诊断和解决方法详细信息页面，关系图谱用于展示此结果的推理过程\
+<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot1.png" width="250" alt="截图">
+<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot2.png" width="250" alt="截图">
+<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot3.png" width="250" alt="截图">
+
+在线分析爬取网上的解决方法，查看详细信息，反馈功能\
+<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot4.png" width="250" alt="截图">
+<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot5.png" width="250" alt="截图">
+
+智能问答功能\
+<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot6.png" width="250" alt="截图">
+<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot7.png" width="250" alt="截图">
+
+#### 4. 大数据实战项目
+
+##### 	A. 互联网精准营销
+
+​	![互联网精准营销](images/yingxiaoanli.png)
+
+##### 	B. 跨境电商红酒定价决策
+
+![跨境电商红酒定价决策](images/5-3.png)
+
+![跨境电商红酒定价决策](images/win_pro_zch.png)
+
+![跨境电商红酒定价决策](images/level_zch.png)
