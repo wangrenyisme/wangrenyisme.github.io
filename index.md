@@ -1,15 +1,17 @@
 <table border="0">
   <tr>
-    <td width="75%">
+    <td>
       <h1>王任义</h1>
       <p><b>石家庄铁道大学本科学士学位</b></p>
       <p><b>石家庄铁道大学信息科学与技术学院</b></p>
       <p><b>邮箱：1544476096@qq.com</b></p>
       <p><b>地址：河北省石家庄市石家庄铁道大学</b></p>
     </td>
-    <td width="25%">
+  </tr>
+  <tr>
+  <td width = "70%">
       <img src="images/bisaizhao.jpg" width="100%">
-    </td>
+  </td>
   </tr>
 </table>
 
@@ -94,9 +96,9 @@
 2. 科技政策数据关联，通过不同维度的政策分类，实现科技政策与各类科技本体的相互关联。
 3. 科技政策应用服务，根据政策的推出、变更，联合智能分析、分类可视化展现，探究科技政策变化对科技创新发展带来的影响，为政策制订提供决策参考。
 
-##四、项目展示
 
 
+## 四、作品展示
 
 #### 1. 大学生表白墙网站：
 
@@ -108,16 +110,27 @@
 
 ####3. 数控大师App：
 
-故障诊断和解决方法详细信息页面，关系图谱用于展示此结果的推理过程\
-<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot1.png" width="250" alt="截图">
-<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot2.png" width="250" alt="截图">
-<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot3.png" width="250" alt="截图">
+1. 故障诊断和解决方法详细信息页面，关系图谱用于展示此结果的推理过程
 
-在线分析爬取网上的解决方法，查看详细信息，反馈功能\
-<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot4.png" width="250" alt="截图">
-<img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot5.png" width="250" alt="截图">
+<img src="images/Screenshot1.png" width="200" alt="截图">
+<img src="images/Screenshot2.png" width="200" alt="截图">
+<img src="images/Screenshot3.png" width="200" alt="截图">
 
-智能问答功能\
+
+
+
+
+2. 在线分析爬取网上的解决方法，查看详细信息，反馈功能
+
+<img src="images/Screenshot4.png" width="250" alt="截图">
+<img src="images/Screenshot5.png" width="250" alt="截图">
+
+
+
+
+
+3. 智能问答功能
+
 <img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot6.png" width="250" alt="截图">
 <img src="https://raw.githubusercontent.com/wangrenyisme/Shukongdashi/master/image/Screenshot7.png" width="250" alt="截图">
 
