@@ -43,9 +43,9 @@
 
 #### 1. 数控大师APP-基于移动端的自适应故障诊断平台 /大三
 
-**项目简介：**通过学习数控机床历史维修案例，构建知识图谱，实现故障推理诊断。
+**项目简介：** 通过学习数控机床历史维修案例，构建知识图谱，实现故障推理诊断。
 
-**技术方案：**Django + Python + APICloud + Neo4j + MySQL
+**技术方案：** Django + Python + APICloud + Neo4j + MySQL
 
 **系统特点：**
 
@@ -57,11 +57,11 @@
 
 4.   诊断结果智能化排序，推理过程可视化。
 
-**详细介绍：**[数控大师](https://github.com/wangrenyisme/Shukongdashi"数控大师-基于移动端的自适应故障诊断平台")
+**详细介绍：** [数控大师](https://github.com/wangrenyisme/Shukongdashi"数控大师-基于移动端的自适应故障诊断平台")
 
 #### 2.大学生竞赛智能管理平台 /大二
 
-**技术方案：**Tomcat + JSP + Layui + Servlet + MySQL
+**技术方案：** Tomcat + JSP + Layui + Servlet + MySQL
 
 **主要功能： **
 
@@ -75,7 +75,7 @@
 
 #### 3.大学生表白墙网站 /大二
 
-**技术方案：**Tomcat + JSP + Servlet + MySQL
+**技术方案：** Tomcat + JSP + Servlet + MySQL
 
 **系统特点：**
 
@@ -128,9 +128,6 @@
 <img src="images/Screenshot5.png" width="250" alt="截图">
 
 
-
-
-
 3. 智能问答功能
 
 <img src="images/Screenshot6.png" width="250" alt="截图">
@@ -139,13 +136,10 @@
 #### 4. 大数据实战项目
 
 ##### 	A. 互联网精准营销
-
-    ![互联网精准营销](images/yingxiaoanli.png)
+![互联网精准营销](images/yingxiaoanli.png)
 
 ##### 	B. 跨境电商红酒定价决策
 
-	![跨境电商红酒定价决策](images/5-3.png)
-
-	![跨境电商红酒定价决策](images/win_pro_zch.png)
-
-	![跨境电商红酒定价决策](images/level_zch.png)
+![跨境电商红酒定价决策](images/5-3.png)
+![跨境电商红酒定价决策](images/win_pro_zch.png)
+![跨境电商红酒定价决策](images/level_zch.png)
