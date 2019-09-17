@@ -57,7 +57,7 @@
 
 4.   诊断结果智能化排序，推理过程可视化。
 
-**详细介绍：** [数控大师](https://github.com/wangrenyisme/Shukongdashi"数控大师-基于移动端的自适应故障诊断平台")
+**详细介绍：** [数控大师](https://github.com/wangrenyisme/Shukongdashi "数控大师-基于移动端的自适应故障诊断平台")
 
 #### 2.大学生竞赛智能管理平台 /大二
 
