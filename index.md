@@ -30,6 +30,9 @@
   <tr>
   <td><a href = "https://github.com/wangrenyisme/Shukongdashi">Shukongdashi</a></td><td>数控大师-基于移动端在线设备故障诊断平台</td><td>知识库的构建和维护、数控机床故障诊断的只能问答系统</td>
   </tr>
+  <tr>
+  <td><a href = "https://github.com/wangrenyisme/Biaobai">Biaobai</a></td><td>大学生表白墙网站</td><td>表白热度排行榜，表白消息通知</td>
+  </tr>
 </table>
 
 ---
