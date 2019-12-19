@@ -59,7 +59,7 @@
 
 **截图**
 
-<img src="images/biaobaiqiang.jpg" style="zoom: 33%;" />
+<img src="images/biaobaiqiang.jpg" style="zoom: 50%;" />
 
 #### 2.大学生竞赛智能管理平台 /大二
 
@@ -74,7 +74,7 @@
 
 **截图**
 
-<img src="images/bisai.png" style="zoom: 33%;" />
+<img src="images/bisai.png" style="zoom: 50%;" />
 
 #### 3. 数控大师APP-基于移动端的自适应故障诊断平台 /大三
 
@@ -93,7 +93,7 @@
 
 **截图**
 
-<img src="images/Screenshot2.png" alt="截图" style="zoom: 33%;" >
+<img src="images/Screenshot2.png" alt="截图" style="zoom: 25%;" >
 
 #### 4.科技政策影响力分析（毕业设计） /大四
 
@@ -107,7 +107,7 @@
 
 **截图**
 
-<img src="images/design1.jpg" alt="科技政策综合服务系统" style="zoom:33%;" />
+<img src="images/design1.jpg" alt="科技政策综合服务系统" style="zoom:50%;" />
 
 ## 四、作品展示
 #### 1. 大学生表白墙网站：
